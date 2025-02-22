@@ -1,0 +1,17 @@
+{
+  "name": "mixpanel-nextjs",
+  "version": "0.0.1",
+  "description": "A Mixpanel integration package specifically designed for Next.js Server Actions environment",
+  "keywords": [
+    "mixpanel",
+    "nextjs",
+    "server-actions",
+    "analytics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-reinfoce/mixpanel-nextjs"
+  }
+}
