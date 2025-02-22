@@ -3,8 +3,7 @@
   "private": true,
   "scripts": {
     "dev": "pnpm --filter playground dev",
-    "build": "pnpm --filter playground build",
-    "test": "pnpm --filter playground test"
+    "build": "pnpm --filter mixpanel-nextjs build"
   },
   "workspaces": [
     "packages/*"
